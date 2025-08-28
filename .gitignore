@@ -1,0 +1,15 @@
+.venv/
+*.csv
+*/
+*.pkl
+*.db
+*.sqlite
+*.pt
+*.zip
+MAHESHKUMAR UMALE CV.html
+MAHESHKUMAR UMALE CV.jpeg
+MAHESHKUMAR UMALE CV.md
+MAHESHKUMAR UMALE CV.pdf
+MAHESHKUMAR UMALE CV.png
+MAHESH*.*
+__pycache__

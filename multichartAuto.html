@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lightweight Charts - Multi Chart View</title>
+    <script type="text/javascript" src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+    <style>
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #222; /* Optional background for the page */
+}
+#chart-container {
+    display: flex;
+    flex-direction: row; /* Arrange charts side-by-side */
+    justify-content: space-around; /* Distribute space between charts */
+    align-items: flex-start; /* Align charts at the top */
+    margin: 20px;
+}
+.chart-container {
+    display: flex;
+    flex-direction: row; /* Arrange charts side-by-side */
+    justify-content: space-around; /* Distribute space between charts */
+    align-items: flex-start; /* Align charts at the top */
+    margin: 20px;
+}
+.chart-div {
+    width: 400px; /* Adjust the width as needed */
+    height: 300px; /* Adjust the height as needed */
+    display: inline-block;
+}
+</style>
+</head>
+<body>
+
+
+
+
+    <button id="addChartButton">Add Chart</button>
+
+    <div id="chart-Container" class="chart-container" ></div>
+
+    <script>
+        const chartContainer = document.getElementById("chart-Container");
+        const addChartButton = document.getElementById("addChartButton");
+        let chartCount = 0;
+
+        function createAndInitializeChart() {
+            chartCount++;
+            const chartDiv = document.createElement("div");
+            chartDiv.className = "chart-div";
+            chartDiv.id = `chart-${chartCount}`;
+            chartContainer.appendChild(chartDiv);
+
+            const chart = LightweightCharts.createChart(document.getElementById(chartDiv.id), {
+                timeScale: {
+                    timeVisible: true,
+                    barSpacing: 30,
+                }
+            });
+
+             const candlestickSeries = chart.addCandlestickSeries();
+
+            // Sample data for demonstration
+            const data = [
+                { time: '2025-04-21', open: 100, high: 105, low: 95, close: 102 },
+                { time: '2025-04-22', open: 102, high: 108, low: 98, close: 106 },
+                { time: '2025-04-23', open: 106, high: 110, low: 104, close: 108 },
+            ];
+
+            candlestickSeries.setData(data);
+
+
+        }
+
+        addChartButton.addEventListener("click", createAndInitializeChart);
+    </script>
+
+</body>
+</html>

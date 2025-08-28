@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lightweight Charts - Multi Chart View</title>
+<script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #222; /* Optional background for the page */
+}
+#chart-container {
+    display: flex;
+    flex-direction: row; /* Arrange charts side-by-side */
+    justify-content: space-around; /* Distribute space between charts */
+    align-items: flex-start; /* Align charts at the top */
+    margin: 20px;
+}
+.chart-div {
+    width: 400px; /* Adjust the width as needed */
+    height: 300px; /* Adjust the height as needed */
+}
+</style>
+</head>
+<body>
+    <div id="chart-container">
+        <!-- Chart 1 -->
+        <div class="chart-div" id="chart1"></div>
+        <!-- Chart 2 -->
+        <div class="chart-div" id="chart2"></div>
+        <!-- Chart 3 (and so on) -->
+        <div class="chart-div" id="chart3"></div>
+		
+        <!-- Chart 1 -->
+        <div class="chart-div" id="chart11"></div>
+        <!-- Chart 2 -->
+        <div class="chart-div" id="chart12"></div>
+        <!-- Chart 3 (and so on) -->
+        <div class="chart-div" id="chart13"></div>
+    </div>
+
+<script>
+// Sample data for the charts (replace with your actual data)
+function generateSampleData() {
+    return [
+        { time: "2024-01-01", value: 100 },
+        { time: "2024-01-02", value: 105 },
+        { time: "2024-01-03", value: 95 },
+        { time: "2024-01-04", value: 110 },
+        { time: "2024-01-05", value: 115 },
+    ];
+}
+
+// Function to create and initialize a chart
+function createAndInitializeChart(chartId, data) {
+    const chart = LightweightCharts.createChart(document.getElementById(chartId), {
+        width: 400, // Adjust width as needed
+        height: 300, // Adjust height as needed
+    });
+
+    const series = chart.addSeries(LightweightCharts.LineSeries);
+    series.setData(data);
+
+    return chart;
+}
+
+
+// Create and initialize the charts
+const chart1 = createAndInitializeChart("chart1", generateSampleData());
+const chart2 = createAndInitializeChart("chart2", generateSampleData());
+const chart3 = createAndInitializeChart("chart3", generateSampleData());
+
+const chart11 = createAndInitializeChart("chart1", generateSampleData());
+const chart12 = createAndInitializeChart("chart2", generateSampleData());
+const chart13 = createAndInitializeChart("chart3", generateSampleData());
+
+
+//  You can add more charts by creating more div elements and calling createAndInitializeChart 
+</script>
+</body>
+</html>

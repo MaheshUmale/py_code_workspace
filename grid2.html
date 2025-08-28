@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0"/>
+		<title>Lightweight Charts™ Customization Tutorial</title>
+		<!-- Adding the standalone version of Lightweight charts -->
+		<script type="text/javascript" src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"/></script>
+		<style>
+      body {
+        padding: 0;
+        margin: 0;
+      }
+	  .chart-div {
+    width: 500px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    display: inline-block;
+}
+    </style>
+	</head>
+	<body>
+		<div id="container" class="chart-div"/>
+		<div id="container2" class="chart-div"/>
+		<div id="chart"/>
+		<button id="addChartButton">Add Chart</button>
+		<div id="mainContainer" class="main"/>
+		<script type="text/javascript">
+      // Function to generate a sample set of Candlestick datapoints
+      function generateCandlestickData() {
+        return [
+          {
+            time: "2018-10-19",
+            open: 180.34,
+            high: 180.99,
+            low: 178.57,
+            close: 179.85,
+          },
+          {
+            time: "2018-10-22",
+            open: 180.82,
+            high: 181.4,
+            low: 177.56,
+            close: 178.75,
+          },
+          {
+            time: "2018-10-23",
+            open: 175.77,
+            high: 179.49,
+            low: 175.44,
+            close: 178.53,
+          },
+          {
+            time: "2018-10-24",
+            open: 178.58,
+            high: 182.37,
+            low: 176.31,
+            close: 176.97,
+          },
+          {
+            time: "2018-10-25",
+            open: 177.52,
+            high: 180.5,
+            low: 176.83,
+            close: 179.07,
+          },
+          {
+            time: "2018-10-26",
+            open: 176.88,
+            high: 177.34,
+            low: 170.91,
+            close: 172.23,
+          },
+          {
+            time: "2018-10-29",
+            open: 173.74,
+            high: 175.99,
+            low: 170.95,
+            close: 173.2,
+          },
+         
+        ];
+      }
+  
+  
+function generateVolumeData(){
+	 return [	 
+	 
+	{ time: '2018-10-19', value: 19103293.00, color: '#26a69a' },
+    { time: '2018-10-22', value: 21737523.00, color: '#26a69a' },
+    { time: '2018-10-23', value: 29328713.00, color: '#26a69a' },
+    { time: '2018-10-24', value: 37435638.00, color: '#26a69a' },
+    { time: '2018-10-25', value: 25269995.00, color: '#ef5350' },
+    { time: '2018-10-26', value: 24973311.00, color: '#ef5350' },
+    { time: '2018-10-29', value: 22103692.00, color: '#26a69a' },
+ 
+ ];
+      }
+function addchart(chartID){
+      // Create the Lightweight Chart within the container element
+      let chart = LightweightCharts.createChart(
+        document.getElementById(chartID)
+      );
+
+      // Generate sample data to use within a candlestick series
+      let candleStickData = generateCandlestickData();
+
+      // Create the Main Series (Candlesticks)
+      let mainSeries = chart.addSeries(LightweightCharts.CandlestickSeries);
+      // Set the data for the Main Series
+      mainSeries.setData(candleStickData);
+
+      // Adding a window resize event handler to resize the chart when
+      // the window size changes.
+      // Note: for more advanced examples (when the chart doesn't fill the entire window)
+      // you may need to use ResizeObserver -> https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver
+	  
+      // window.addEventListener("resize", () => {
+      //   chart.resize(window.innerWidth, window.innerHeight);
+      // });
+	  mainSeries.priceScale().applyOptions({
+    scaleMargins: {
+        // positioning the price scale for the area series
+        top: 0.1,
+        bottom: 0.4,
+    },
+});
+
+let volumeSeries = chart.addSeries(LightweightCharts.HistogramSeries, {
+    color: '#26a69a',
+    priceFormat: {
+        type: 'volume',
+    },
+    priceScaleId: '', // set as an overlay by setting a blank priceScaleId
+    // set the positioning of the volume series
+    scaleMargins: {
+        top: 0.7, // highest point of the series will be 70% away from the top
+        bottom: 0,
+    },
+});
+volumeSeries.priceScale().applyOptions({
+    scaleMargins: {
+        top: 0.7, // highest point of the series will be 70% away from the top
+        bottom: 0,
+    },
+});
+
+let volumeData = generateVolumeData();
+volumeSeries.setData(volumeData);
+
+
+chart.timeScale().fitContent();
+
+	  }
+
+addchart('container2');
+addchart('container');
+
+let chartCount = 0;
+const mainContainer = document.getElementById("mainContainer");
+const addChartButton = document.getElementById("addChartButton");
+
+function createAndInitializeChart() {
+            chartCount++;
+            const chartDiv = document.createElement("div");
+            chartDiv.className = "chart-div";
+            chartDiv.id = `chart-${chartCount}`;
+            mainContainer.appendChild(chartDiv);
+			addchart(chartDiv.id);
+			}
+
+  addChartButton.addEventListener("click", createAndInitializeChart);
+  
+  
+  
+  
+  
+  
+document.addEventListener('DOMContentLoaded', function () {
+ const chart = new LightweightCharts.createChart(document.getElementById('chart'), {
+        width: 800,
+        height: 400,
+        timeScale: {
+            timeVisible: true,
+            barSpacing: 25,
+            rightBarStaysOnWheel: true
+        },
+        layout: {
+            backgroundColor: 'white',
+            textColor: 'black',
+            lineColor: 'black',
+            crosshair: {
+                color: 'black'
+            },
+            paneBackgroundColor: 'white',
+            timeZone: 'Asia/Kolkata'
+        },
+    });
+
+ const candleSeries = chart.addSeries(LightweightCharts.CandlestickSeries,{scaleMargins: {
+        top: 0, // highest point of the series will be 70% away from the top
+        bottom: 0.2,
+    },});
+ const volumeSeries = chart.addSeries(LightweightCharts.HistogramSeries, {
+    color: '#26a69a',
+    priceFormat: {
+        type: 'volume',
+    },
+    priceScaleId: '', // set as an overlay by setting a blank priceScaleId
+    // set the positioning of the volume series
+    scaleMargins: {
+        top: 0.8, // highest point of the series will be 70% away from the top
+        bottom: 0,
+    },
+});
+ volumeSeries.priceScale().applyOptions({
+    scaleMargins: {
+        top: 0.7, // highest point of the series will be 70% away from the top
+        bottom: 0,
+    },
+});
+
+    // Function to fetch data from Yahoo Finance
+    async function fetchData() {
+        const symbol = 'NSE:NIFTY50'; // NIFTY 50 Index
+        const url ='http://localhost:5001/api/data?symbol=ALOKINDS&exchange=NSE&interval=1m&ema_period=20&rsi_period=14' ; //`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?range=1d&interval=1m`;
+//{"data":{"candlestick":{"close":15.76,"high":15.9,"low":15.72,"open":15.85,"time":1744688700,"volume":58060}
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+            //console.log(data);
+
+            const chartData = data;
+            const timeData = data;
+
+            return { timeData, chartData }
+
+
+        } catch (error) {
+            console.error("Error fetching data:", error);
+        }
+    }
+
+
+    // Initial data load and chart setup
+    async function init() {
+        const data = await fetchData();
+ 
+			                        // Update chart data
+                        candleSeries.setData( data.chartData.data.candlestick);
+                        
+                        // Calculate volume data with colors based on price direction
+                        const volumeData =  data.chartData.data.candlestick.map(candle => ({
+                            time: candle.time,
+                            value: candle.volume || 0,
+                            color: candle.close >= candle.open ? '#26a6ddaa' : '#ff5350'
+                        }));
+                        
+                        volumeSeries.setData(volumeData);
+						}
+      
+    init();
+
+    // Simulate real-time updates (for demonstration purposes)
+    setInterval(async () => {
+        const data = await fetchData();
+        if (data  ) {
+            const latestData = data.chartData.data.candlestick[data.chartData.data.candlestick.length - 1];
+
+            const latestTime =data.chartData.data.candlestick[data.chartData.data.candlestick.length - 1] * 1000;
+
+            if (latestData) {
+                candleSeries.update({
+                    time: latestData.time,
+                    open: latestData.open,
+                    high: latestData.high,
+                    low : latestData.low,
+                    close: latestData.close,
+                });
+            }
+        }
+    }, 10000); // Update every 30 seconds
+});
+  
+  
+  
+  
+    </script>
+	
+	
+	</body>
+</html>

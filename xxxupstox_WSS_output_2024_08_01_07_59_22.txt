@@ -1,0 +1,544 @@
+{"feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51682.35, "ltt": "1722499164000", "cp": 51553.4}}, "NSE_FO|35165": {"ltpc": {}}, "NSE_FO|35415": {"ltpc": {"ltp": 25013.7, "ltt": "1722499164054", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35080": {"ltpc": {}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.5, "ltt": "1722499164000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51682.35, "ltt": "1722499164000", "cp": 51553.4}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.0, "ltt": "1722499164000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51682.25, "ltt": "1722499165000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25013.7, "ltt": "1722499164054", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51682.0, "ltt": "1722499165000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.45, "ltt": "1722499165000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.15, "ltt": "1722499165637", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.7, "ltt": "1722499165000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51684.05, "ltt": "1722499166000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.4, "ltt": "1722499166199", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.1, "ltt": "1722499166000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51683.6, "ltt": "1722499166000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.4, "ltt": "1722499166199", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51684.6, "ltt": "1722499167000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24984.95, "ltt": "1722499166000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51681.5, "ltt": "1722499167000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.45, "ltt": "1722499167000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.25, "ltt": "1722499167676", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24984.1, "ltt": "1722499167000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51681.4, "ltt": "1722499168000", "cp": 51553.4}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25016.0, "ltt": "1722499167918", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51676.95, "ltt": "1722499168000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.0, "ltt": "1722499168000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.8, "ltt": "1722499168000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51680.1, "ltt": "1722499169000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25012.6, "ltt": "1722499169302", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51677.6, "ltt": "1722499169000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.25, "ltt": "1722499169000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25015.1, "ltt": "1722499169725", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51677.65, "ltt": "1722499170000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.1, "ltt": "1722499169000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25015.1, "ltt": "1722499169725", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25015.1, "ltt": "1722499169725", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.9, "ltt": "1722499170000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51677.85, "ltt": "1722499170000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.95, "ltt": "1722499171000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.7, "ltt": "1722499170000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.35, "ltt": "1722499171000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.9, "ltt": "1722499171000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25015.1, "ltt": "1722499169725", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499171776", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.9, "ltt": "1722499171000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.95, "ltt": "1722499172000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499172263", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.8, "ltt": "1722499172000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.95, "ltt": "1722499172000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.25, "ltt": "1722499173000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.95, "ltt": "1722499172000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499172263", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.1, "ltt": "1722499173000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.8, "ltt": "1722499173000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.55, "ltt": "1722499174000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.8, "ltt": "1722499173000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.6, "ltt": "1722499174000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.0, "ltt": "1722499174000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499172263", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.7, "ltt": "1722499174000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.95, "ltt": "1722499175000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.05, "ltt": "1722499175000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.45, "ltt": "1722499175000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.2, "ltt": "1722499176000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.15, "ltt": "1722499175000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25015.0, "ltt": "1722499176192", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.95, "ltt": "1722499176000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.2, "ltt": "1722499176000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499176560", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.95, "ltt": "1722499177000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.3, "ltt": "1722499176000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499176560", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.25, "ltt": "1722499177000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.6, "ltt": "1722499177000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.1, "ltt": "1722499177000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.4, "ltt": "1722499178000", "cp": 51553.4}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499176560", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.6, "ltt": "1722499178000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.65, "ltt": "1722499178000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.9, "ltt": "1722499179000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.65, "ltt": "1722499178000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.2, "ltt": "1722499179098", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.4, "ltt": "1722499179000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.8, "ltt": "1722499179000", "cp": 51553.4}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.2, "ltt": "1722499179098", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.8, "ltt": "1722499180000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.8, "ltt": "1722499179000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.05, "ltt": "1722499180000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25013.15, "ltt": "1722499180547", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.7, "ltt": "1722499180000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.65, "ltt": "1722499180000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.6, "ltt": "1722499181000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499181307", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.55, "ltt": "1722499181000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.8, "ltt": "1722499181000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.15, "ltt": "1722499181460", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.75, "ltt": "1722499182000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.4, "ltt": "1722499181000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.15, "ltt": "1722499181460", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.05, "ltt": "1722499182000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.8, "ltt": "1722499182000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.7, "ltt": "1722499183000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.7, "ltt": "1722499182000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.2, "ltt": "1722499182634", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.1, "ltt": "1722499183000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.5, "ltt": "1722499183000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.15, "ltt": "1722499183000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.1, "ltt": "1722499184000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.25, "ltt": "1722499184000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.5, "ltt": "1722499184000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.2, "ltt": "1722499182634", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.3, "ltt": "1722499185000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.15, "ltt": "1722499184000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24983.0, "ltt": "1722499185000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.45, "ltt": "1722499185000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.3, "ltt": "1722499185000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.55, "ltt": "1722499186000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.15, "ltt": "1722499186000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25013.2, "ltt": "1722499182634", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.75, "ltt": "1722499186000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.95, "ltt": "1722499186000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.65, "ltt": "1722499187000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.3, "ltt": "1722499187000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.6, "ltt": "1722499187000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.05, "ltt": "1722499188000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.45, "ltt": "1722499187000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.2, "ltt": "1722499182634", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.2, "ltt": "1722499188000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.05, "ltt": "1722499188000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25012.65, "ltt": "1722499188529", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.0, "ltt": "1722499189000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.5, "ltt": "1722499188000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.4, "ltt": "1722499189000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.05, "ltt": "1722499189000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25012.65, "ltt": "1722499188529", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.1, "ltt": "1722499189000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.05, "ltt": "1722499190000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.75, "ltt": "1722499190000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.6, "ltt": "1722499190000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.8, "ltt": "1722499191000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.5, "ltt": "1722499190000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25012.65, "ltt": "1722499188529", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.8, "ltt": "1722499191000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.0, "ltt": "1722499191000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.35, "ltt": "1722499192000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499191000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25012.3, "ltt": "1722499192140", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.2, "ltt": "1722499192000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499192000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499192000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.6, "ltt": "1722499193000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25012.3, "ltt": "1722499192140", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.45, "ltt": "1722499193000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.75, "ltt": "1722499193000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.85, "ltt": "1722499194000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.1, "ltt": "1722499193000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.2, "ltt": "1722499194000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.5, "ltt": "1722499194000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25012.3, "ltt": "1722499192140", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.15, "ltt": "1722499194000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.35, "ltt": "1722499195000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.3, "ltt": "1722499195000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.9, "ltt": "1722499195000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.65, "ltt": "1722499195626", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.35, "ltt": "1722499195000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.5, "ltt": "1722499196000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.65, "ltt": "1722499196064", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.55, "ltt": "1722499196000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25011.65, "ltt": "1722499196064", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.35, "ltt": "1722499196000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.05, "ltt": "1722499197000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.2, "ltt": "1722499196000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.55, "ltt": "1722499197167", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.15, "ltt": "1722499197000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.25, "ltt": "1722499197000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.2, "ltt": "1722499198000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.85, "ltt": "1722499197000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.55, "ltt": "1722499197167", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.45, "ltt": "1722499198000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.15, "ltt": "1722499198000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.65, "ltt": "1722499198000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.0, "ltt": "1722499199000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.1, "ltt": "1722499199000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.85, "ltt": "1722499199000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25010.75, "ltt": "1722499199502", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.75, "ltt": "1722499199502", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51660.9, "ltt": "1722499200000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.85, "ltt": "1722499199000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.25, "ltt": "1722499200113", "ltq": "100", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.25, "ltt": "1722499200113", "ltq": "100", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.35, "ltt": "1722499200000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.6, "ltt": "1722499200000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499200000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.2, "ltt": "1722499201000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.25, "ltt": "1722499201280", "ltq": "50", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.75, "ltt": "1722499201000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25011.25, "ltt": "1722499201280", "ltq": "50", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.25, "ltt": "1722499201000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.25, "ltt": "1722499201000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.4, "ltt": "1722499202000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.05, "ltt": "1722499202231", "ltq": "100", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.05, "ltt": "1722499202000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.15, "ltt": "1722499202000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.85, "ltt": "1722499203000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.25, "ltt": "1722499202000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.55, "ltt": "1722499203126", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.85, "ltt": "1722499203175", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.25, "ltt": "1722499203000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.65, "ltt": "1722499203000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.4, "ltt": "1722499204000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.7, "ltt": "1722499203000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.55, "ltt": "1722499204338", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.5, "ltt": "1722499204000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.05, "ltt": "1722499204000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.1, "ltt": "1722499204682", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.85, "ltt": "1722499204000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.35, "ltt": "1722499205000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.0, "ltt": "1722499205147", "ltq": "450", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.55, "ltt": "1722499205000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.5, "ltt": "1722499205000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.5, "ltt": "1722499206000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.7, "ltt": "1722499205000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.25, "ltt": "1722499205406", "ltq": "50", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.25, "ltt": "1722499205406", "ltq": "50", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.85, "ltt": "1722499206000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.35, "ltt": "1722499206000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.85, "ltt": "1722499206000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.85, "ltt": "1722499207000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.0, "ltt": "1722499206886", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.75, "ltt": "1722499207000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.35, "ltt": "1722499207000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.7, "ltt": "1722499207000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.6, "ltt": "1722499208000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499208106", "ltq": "125", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499208106", "ltq": "125", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.1, "ltt": "1722499208000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.05, "ltt": "1722499208000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.2, "ltt": "1722499209000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.8, "ltt": "1722499208000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499208662", "ltq": "100", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.05, "ltt": "1722499209000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.9, "ltt": "1722499209000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499208662", "ltq": "100", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.25, "ltt": "1722499210000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499209000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.4, "ltt": "1722499210235", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.35, "ltt": "1722499210000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.55, "ltt": "1722499210000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.3, "ltt": "1722499210000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.8, "ltt": "1722499211000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.95, "ltt": "1722499210921", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.15, "ltt": "1722499211000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25009.95, "ltt": "1722499210921", "ltq": "50", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.5, "ltt": "1722499211000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.15, "ltt": "1722499212000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.9, "ltt": "1722499211000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.9, "ltt": "1722499212283", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.65, "ltt": "1722499212000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.75, "ltt": "1722499212000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.1, "ltt": "1722499213000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.5, "ltt": "1722499212000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.9, "ltt": "1722499212455", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.95, "ltt": "1722499213302", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.65, "ltt": "1722499213000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.85, "ltt": "1722499213000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.2, "ltt": "1722499213000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.95, "ltt": "1722499214000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.5, "ltt": "1722499213684", "ltq": "75", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.9, "ltt": "1722499214000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.7, "ltt": "1722499214000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.5, "ltt": "1722499213684", "ltq": "75", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.25, "ltt": "1722499215000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.65, "ltt": "1722499214000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.0, "ltt": "1722499214993", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.7, "ltt": "1722499215000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.7, "ltt": "1722499215000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.9, "ltt": "1722499216000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.7, "ltt": "1722499215000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499215854", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.95, "ltt": "1722499216000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.9, "ltt": "1722499216000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.45, "ltt": "1722499216000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.2, "ltt": "1722499217000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.0, "ltt": "1722499217338", "ltq": "100", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.15, "ltt": "1722499217000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.75, "ltt": "1722499217000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.05, "ltt": "1722499218000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.2, "ltt": "1722499217000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499217854", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499217854", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.15, "ltt": "1722499218000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.05, "ltt": "1722499218000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.2, "ltt": "1722499218000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.7, "ltt": "1722499219000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499218426", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.45, "ltt": "1722499219000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.0, "ltt": "1722499219000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52459.0, "ltt": "1722499147023", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499218426", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.5, "ltt": "1722499219000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.2, "ltt": "1722499220000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.85, "ltt": "1722499220000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.0, "ltt": "1722499220000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.0, "ltt": "1722499221000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.4, "ltt": "1722499220000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499218426", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.9, "ltt": "1722499221000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.7, "ltt": "1722499221000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.65, "ltt": "1722499221000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.55, "ltt": "1722499222000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.6, "ltt": "1722499222240", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.7, "ltt": "1722499222000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.0, "ltt": "1722499222000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.6, "ltt": "1722499222240", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.2, "ltt": "1722499222000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.85, "ltt": "1722499223000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.8, "ltt": "1722499223316", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.9, "ltt": "1722499223000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.5, "ltt": "1722499223000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.55, "ltt": "1722499224000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.0, "ltt": "1722499223000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.6, "ltt": "1722499223771", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.7, "ltt": "1722499224000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.25, "ltt": "1722499224000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25011.6, "ltt": "1722499223771", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.5, "ltt": "1722499225000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.3, "ltt": "1722499224000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.7, "ltt": "1722499225000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499225000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.4, "ltt": "1722499225000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.4, "ltt": "1722499226000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.6, "ltt": "1722499223771", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.6, "ltt": "1722499226000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.55, "ltt": "1722499226000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25009.25, "ltt": "1722499226453", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.0, "ltt": "1722499227000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.45, "ltt": "1722499226000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.0, "ltt": "1722499226970", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.35, "ltt": "1722499227000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.55, "ltt": "1722499227000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.55, "ltt": "1722499228000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.2, "ltt": "1722499227000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.5, "ltt": "1722499228000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.35, "ltt": "1722499228000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.55, "ltt": "1722499228000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.4, "ltt": "1722499229000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.0, "ltt": "1722499229089", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.9, "ltt": "1722499229000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.95, "ltt": "1722499229000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25007.0, "ltt": "1722499229089", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.0, "ltt": "1722499230000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.85, "ltt": "1722499229000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.0, "ltt": "1722499229089", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25005.3, "ltt": "1722499230279", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.65, "ltt": "1722499230000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.6, "ltt": "1722499230000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.25, "ltt": "1722499230000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.7, "ltt": "1722499231000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25005.35, "ltt": "1722499230746", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25005.35, "ltt": "1722499230746", "ltq": "25", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.1, "ltt": "1722499231000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.4, "ltt": "1722499231000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.6, "ltt": "1722499231000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.85, "ltt": "1722499232000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25005.85, "ltt": "1722499232123", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.9, "ltt": "1722499232000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.95, "ltt": "1722499232000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25006.05, "ltt": "1722499232606", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.05, "ltt": "1722499233000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.55, "ltt": "1722499232000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25006.95, "ltt": "1722499233130", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.45, "ltt": "1722499233000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.2, "ltt": "1722499233000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.3, "ltt": "1722499233000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.0, "ltt": "1722499234000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.7, "ltt": "1722499234093", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.35, "ltt": "1722499234000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25007.7, "ltt": "1722499234093", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.9, "ltt": "1722499234000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.3, "ltt": "1722499234000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.4, "ltt": "1722499235000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.15, "ltt": "1722499234861", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.2, "ltt": "1722499235000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.8, "ltt": "1722499235000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.1, "ltt": "1722499236000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.3, "ltt": "1722499235000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.5, "ltt": "1722499235852", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.5, "ltt": "1722499236225", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.9, "ltt": "1722499236000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.65, "ltt": "1722499236000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.7, "ltt": "1722499237000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.0, "ltt": "1722499236000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.1, "ltt": "1722499237000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.6, "ltt": "1722499237000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.8, "ltt": "1722499237738", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.3, "ltt": "1722499237000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.05, "ltt": "1722499238000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.6, "ltt": "1722499238000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.3, "ltt": "1722499238000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.05, "ltt": "1722499239000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.7, "ltt": "1722499238000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.15, "ltt": "1722499239000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.3, "ltt": "1722499239000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.65, "ltt": "1722499240000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.95, "ltt": "1722499239000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.95, "ltt": "1722499240000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.95, "ltt": "1722499240000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.4, "ltt": "1722499240000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.85, "ltt": "1722499241000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.25, "ltt": "1722499241000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.45, "ltt": "1722499241000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.45, "ltt": "1722499242000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.7, "ltt": "1722499241000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.75, "ltt": "1722499242000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.65, "ltt": "1722499242000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.3, "ltt": "1722499243000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.15, "ltt": "1722499242000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.6, "ltt": "1722499243000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.85, "ltt": "1722499243000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.65, "ltt": "1722499243000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.6, "ltt": "1722499244000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.15, "ltt": "1722499244000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.55, "ltt": "1722499245000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.8, "ltt": "1722499244000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.1, "ltt": "1722499245000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.75, "ltt": "1722499245000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.95, "ltt": "1722499245000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.6, "ltt": "1722499246000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51660.2, "ltt": "1722499246000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.5, "ltt": "1722499246000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25007.6, "ltt": "1722499246909", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.85, "ltt": "1722499246000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.65, "ltt": "1722499247000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25007.6, "ltt": "1722499246909", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.45, "ltt": "1722499247000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.05, "ltt": "1722499247000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.1, "ltt": "1722499247700", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.3, "ltt": "1722499248000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.35, "ltt": "1722499247000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.25, "ltt": "1722499248000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25008.2, "ltt": "1722499248090", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.1, "ltt": "1722499248000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.2, "ltt": "1722499248090", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.2, "ltt": "1722499248000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.85, "ltt": "1722499249000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.4, "ltt": "1722499249000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.85, "ltt": "1722499249000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.8, "ltt": "1722499249554", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.25, "ltt": "1722499249000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.6, "ltt": "1722499250000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.8, "ltt": "1722499249554", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.35, "ltt": "1722499250000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.75, "ltt": "1722499250000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51660.1, "ltt": "1722499251000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.5, "ltt": "1722499250000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.95, "ltt": "1722499251000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51660.65, "ltt": "1722499251000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.1, "ltt": "1722499251000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.25, "ltt": "1722499252000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.3, "ltt": "1722499252000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.1, "ltt": "1722499252000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.4, "ltt": "1722499252000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.85, "ltt": "1722499253000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.8, "ltt": "1722499253000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.6, "ltt": "1722499253000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.95, "ltt": "1722499254000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.7, "ltt": "1722499253000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.05, "ltt": "1722499254000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.95, "ltt": "1722499254000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.0, "ltt": "1722499255000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.7, "ltt": "1722499254000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.5, "ltt": "1722499255000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.0, "ltt": "1722499255000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.25, "ltt": "1722499255000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.0, "ltt": "1722499256000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51661.0, "ltt": "1722499256000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.8, "ltt": "1722499256000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.2, "ltt": "1722499257000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.6, "ltt": "1722499256000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.35, "ltt": "1722499257000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.95, "ltt": "1722499257000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.85, "ltt": "1722499258000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.5, "ltt": "1722499257000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.15, "ltt": "1722499257434", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51663.5, "ltt": "1722499258000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.8, "ltt": "1722499258000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.75, "ltt": "1722499258000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51662.85, "ltt": "1722499259000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51664.6, "ltt": "1722499259000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.95, "ltt": "1722499259000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.1, "ltt": "1722499260000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25008.75, "ltt": "1722499259851", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.2, "ltt": "1722499259000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.75, "ltt": "1722499259851", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.3, "ltt": "1722499260000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.6, "ltt": "1722499260000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.0, "ltt": "1722499260000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.6, "ltt": "1722499261000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.75, "ltt": "1722499261000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.3, "ltt": "1722499261000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.75, "ltt": "1722499259851", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.8, "ltt": "1722499261650", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.7, "ltt": "1722499261000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.5, "ltt": "1722499262000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.0, "ltt": "1722499262000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.8, "ltt": "1722499262000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.8, "ltt": "1722499262642", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.75, "ltt": "1722499263000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.3, "ltt": "1722499262000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52450.0, "ltt": "1722499226378", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.8, "ltt": "1722499262642", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.7, "ltt": "1722499263000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.05, "ltt": "1722499263000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24976.9, "ltt": "1722499263000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.4, "ltt": "1722499264000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.45, "ltt": "1722499264000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.8, "ltt": "1722499264000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24977.85, "ltt": "1722499264000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.85, "ltt": "1722499265000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.9, "ltt": "1722499265000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.2, "ltt": "1722499265000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.3, "ltt": "1722499265000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.05, "ltt": "1722499266000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.65, "ltt": "1722499266000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.65, "ltt": "1722499266000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.75, "ltt": "1722499267000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.15, "ltt": "1722499266000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.4, "ltt": "1722499267000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.0, "ltt": "1722499267000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.65, "ltt": "1722499267000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.4, "ltt": "1722499268000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499268014", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499268314", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.2, "ltt": "1722499268000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.35, "ltt": "1722499268000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.45, "ltt": "1722499269000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.2, "ltt": "1722499268000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25009.05, "ltt": "1722499268625", "ltq": "125", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.5, "ltt": "1722499269000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51665.45, "ltt": "1722499269000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25009.05, "ltt": "1722499268625", "ltq": "125", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.5, "ltt": "1722499270000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.2, "ltt": "1722499269000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499270356", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51666.4, "ltt": "1722499270000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.25, "ltt": "1722499270000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.45, "ltt": "1722499270000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.5, "ltt": "1722499271000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.4, "ltt": "1722499270428", "ltq": "125", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.4, "ltt": "1722499270428", "ltq": "125", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.15, "ltt": "1722499271000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.75, "ltt": "1722499271000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.3, "ltt": "1722499271000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.95, "ltt": "1722499272000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.0, "ltt": "1722499272000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.05, "ltt": "1722499272000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.4, "ltt": "1722499270428", "ltq": "125", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.45, "ltt": "1722499273000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.1, "ltt": "1722499272000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.15, "ltt": "1722499273000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.25, "ltt": "1722499273000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.25, "ltt": "1722499273000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.75, "ltt": "1722499274000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.4, "ltt": "1722499270428", "ltq": "125", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.0, "ltt": "1722499274000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.85, "ltt": "1722499274000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.8, "ltt": "1722499275000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.15, "ltt": "1722499274000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.0, "ltt": "1722499275000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.35, "ltt": "1722499275000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.4, "ltt": "1722499270428", "ltq": "125", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.4, "ltt": "1722499276000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.55, "ltt": "1722499275000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.65, "ltt": "1722499276000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24978.8, "ltt": "1722499276000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.75, "ltt": "1722499276426", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.4, "ltt": "1722499276000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.4, "ltt": "1722499277000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25008.75, "ltt": "1722499276426", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.4, "ltt": "1722499277000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499277561", "ltq": "50", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.05, "ltt": "1722499277000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.8, "ltt": "1722499278000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.0, "ltt": "1722499277000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499278343", "ltq": "175", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.95, "ltt": "1722499278000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.85, "ltt": "1722499278000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.15, "ltt": "1722499278000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.4, "ltt": "1722499279000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499278343", "ltq": "175", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.2, "ltt": "1722499279000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.95, "ltt": "1722499279000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.0, "ltt": "1722499279960", "ltq": "50", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.4, "ltt": "1722499279000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.0, "ltt": "1722499280000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.0, "ltt": "1722499280385", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.85, "ltt": "1722499280000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499280478", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.05, "ltt": "1722499280000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24979.7, "ltt": "1722499280000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51667.65, "ltt": "1722499281000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25013.0, "ltt": "1722499280478", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.1, "ltt": "1722499281000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.0, "ltt": "1722499281000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.25, "ltt": "1722499282000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.1, "ltt": "1722499281000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.95, "ltt": "1722499281716", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.95, "ltt": "1722499281716", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.95, "ltt": "1722499282000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.1, "ltt": "1722499282000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.7, "ltt": "1722499282000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.15, "ltt": "1722499283000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.45, "ltt": "1722499283159", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51668.85, "ltt": "1722499283000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.95, "ltt": "1722499283000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.45, "ltt": "1722499283159", "ltq": "50", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.75, "ltt": "1722499283000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.6, "ltt": "1722499284000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.9, "ltt": "1722499284000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.75, "ltt": "1722499284000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.15, "ltt": "1722499285000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.25, "ltt": "1722499284000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.75, "ltt": "1722499285000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25011.1, "ltt": "1722499285399", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.1, "ltt": "1722499285000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.1, "ltt": "1722499285399", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.65, "ltt": "1722499285000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.35, "ltt": "1722499286000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.95, "ltt": "1722499286000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.35, "ltt": "1722499286000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.25, "ltt": "1722499287046", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.75, "ltt": "1722499286000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.75, "ltt": "1722499287000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25014.25, "ltt": "1722499287046", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25011.05, "ltt": "1722499287387", "ltq": "50", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.75, "ltt": "1722499287000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.35, "ltt": "1722499287000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.45, "ltt": "1722499287000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.55, "ltt": "1722499288000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.65, "ltt": "1722499287848", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.95, "ltt": "1722499288000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.4, "ltt": "1722499288000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25014.65, "ltt": "1722499287848", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.25, "ltt": "1722499288000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.2, "ltt": "1722499289000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.5, "ltt": "1722499288750", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.55, "ltt": "1722499289000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.95, "ltt": "1722499289000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.9, "ltt": "1722499289000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.75, "ltt": "1722499290000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25014.25, "ltt": "1722499289627", "ltq": "100", "cp": 25013.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.25, "ltt": "1722499289627", "ltq": "100", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.15, "ltt": "1722499290000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.3, "ltt": "1722499290000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.0, "ltt": "1722499290000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.8, "ltt": "1722499291000", "cp": 51553.4}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499291019", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.05, "ltt": "1722499291000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.9, "ltt": "1722499291000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.9, "ltt": "1722499291000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.3, "ltt": "1722499292000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25014.0, "ltt": "1722499291019", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.9, "ltt": "1722499292000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.8, "ltt": "1722499292000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.65, "ltt": "1722499292000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51671.45, "ltt": "1722499293000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.4, "ltt": "1722499293000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.0, "ltt": "1722499293000", "cp": 51553.4}}, "NSE_FO|35415": {"ltpc": {"ltp": 25014.35, "ltt": "1722499293419", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51675.75, "ltt": "1722499294000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24980.9, "ltt": "1722499293000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.25, "ltt": "1722499293726", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.55, "ltt": "1722499294000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.45, "ltt": "1722499294000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.7, "ltt": "1722499294000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.45, "ltt": "1722499295000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25014.25, "ltt": "1722499293726", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.35, "ltt": "1722499295000", "cp": 51553.4}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.05, "ltt": "1722499295000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.6, "ltt": "1722499295711", "ltq": "25", "cp": 25013.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.1, "ltt": "1722499295000", "cp": 24951.15}}, "NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51670.7, "ltt": "1722499296000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.0, "ltt": "1722499296000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51669.25, "ltt": "1722499296000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25010.6, "ltt": "1722499295711", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24982.15, "ltt": "1722499296000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.45, "ltt": "1722499297000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.5, "ltt": "1722499297000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51674.2, "ltt": "1722499297000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35006": {"ltpc": {"ltp": 52441.85, "ltt": "1722499263593", "ltq": "15", "cp": 52497.65}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.45, "ltt": "1722499297000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51672.55, "ltt": "1722499298000", "cp": 51553.4}}}}
+{"type": "live_feed", "feeds": {"NSE_FO|35415": {"ltpc": {"ltp": 25012.15, "ltt": "1722499298333", "ltq": "25", "cp": 25013.15}}, "NSE_INDEX|Nifty 50": {"ltpc": {"ltp": 24981.85, "ltt": "1722499298000", "cp": 24951.15}}}}
+{"type": "live_feed", "feeds": {"NSE_INDEX|Nifty Bank": {"ltpc": {"ltp": 51673.4, "ltt": "1722499298000", "cp": 51553.4}}}}

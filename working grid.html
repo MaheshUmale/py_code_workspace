@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0"/>
+		<title>Lightweight Charts™ Customization Tutorial</title>
+		<!-- Adding the standalone version of Lightweight charts -->
+		<script type="text/javascript" src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"/>
+	</script>
+ 
+<style>
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); /* Example: columns with min width of 200px, each taking 1/n of the available space */
+  grid-auto-rows: minmax(300px, auto);
+  gap: 10px;  /* Optional: Add some space between cards */
+}
+.card {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+</style>
+ 
+<style>
+.sidebar {
+    width: 200px;
+    float: left;
+    height: 100vh; /* Or a fixed height if preferred */
+    background-color: #f2f2f2;
+    padding: 20px;
+    position: fixed;
+}
+.main-content {
+    margin-left: 200px; /* Match sidebar width */
+    padding: 20px;
+}
+</style>
+
+</head>
+<body>
+<div class="sidebar">
+    <h2>Watchlist</h2>
+    <ul id="watchlist-list"></ul>
+	 <input type="file" id="fileInput" accept=".csv">
+  <div id="output"></div>
+  
+<button onclick="loadFromWatchlist()">Click me to loadFromWatchlist</button>
+</div>
+<div class="main-content">
+ 
+ 
+<div id="mainContainer" class="card-container"> 
+</div>
+ 
+</div>
+<script>
+const csvData = `Name,Symbol
+UJJIVANSFB,UJJIVANSFB
+INOXWIND,INOXWIND
+ARKADE,ARKADE
+MAHABANK,MAHABANK
+SBFC,SBFC`;
+document.getElementById('fileInput').addEventListener('change', function(event) {
+  const file = event.target.files[0];
+  if (file) {
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      const content = e.target.result;
+      const parsedCSV = parseCSV(content);
+      createWatchlist(parsedCSV);
+    };
+    reader.readAsText(file);
+  }
+});
+
+// Array to store watchlist items
+const watchlistItems = [];
+const symbols = ['ALOKINDS', 'TCS', 'INFY', 'HDFCBANK', 'RELIANCE', 'WIPRO', 'HINDUNILVR', 'LT'];
+
+function parseCSV(csv) {
+    const lines = csv.split('\n');
+	const nonEmptyLines = lines.filter(line => line.trim() !== '');
+    const headers = nonEmptyLines[0].split(',');
+    const data = [];
+
+    for (let i = 1; i < nonEmptyLines.length; i++) {
+        const values = nonEmptyLines[i].split(',');
+        const row = {};
+        for (let j = 0; j < headers.length; j++) {
+            row[headers[j].trim()] = values[j].trim();
+        }
+        data.push(row);
+    }
+    return data;
+}
+ 
+function createWatchlist(data) {
+    const watchlistList = document.getElementById('watchlist-list');  
+
+  
+    data.forEach(item => {
+	
+	
+	
+    //    const listItem = document.createElement('li');
+    //    listItem.textContent = `${item.Name} (${item.Symbol})`;
+    //    watchlistList.appendChild(listItem);
+	//	
+		
+		
+				// Check for duplicates
+			if (!watchlistItems.includes(item.Name)) {
+				const listItem = document.createElement('li');
+				listItem.textContent = `${item.Name} (${item.Symbol})`;
+				watchlistList.appendChild(listItem);
+				// Add to watchlistItems array
+				watchlistItems.push(item.Name);
+
+			}
+
+    });
+} 
+
+const charts = [];
+function loadFromWatchlist(){
+const mainContainer = document.getElementById('mainContainer');
+//Remove OLD charts
+//const parentElement = document.getElementById('parent-element-id');
+
+		const innerDivs = mainContainer.querySelectorAll('div');
+
+		innerDivs.forEach(div => {
+		  div.remove();
+		});
+
+	let chartCount = 0;
+	watchlistItems.forEach(symbol => {
+	chartCount++
+
+
+		const newDiv = document.createElement('div');
+	
+		newDiv.classList.add('.card-container');
+	
+        //mainContainer.appendChild(chartDiv);
+
+		// Alternatively, add both classes at once
+		// x.classList.add('class-one', 'class-two');
+
+		// Append the div to the body (or any other element)
+					// CHART NAME 
+		const textOverlay = document.createElement('div');
+			// 2. Create a strong element for bold text
+		const boldText = document.createElement('strong');
+		//textOverlay.style.position = 'absolute';
+textOverlay.style.top = '10px'; // Adjust position as needed
+textOverlay.style.left = '30px';
+textOverlay.style.paddingLeft = '30px';
+textOverlay.style.color = 'black';
+textOverlay.style.fontSize = '16px';
+		boldText.textContent = `${symbol}`;
+
+		// 3. Append the strong element to the div
+		textOverlay.appendChild(boldText);
+		
+		const chartDiv = document.createElement('div');
+		
+		//chartDiv.classList.add('card');
+		chartDiv.id = `chart-${chartCount}`;
+
+		chartDiv.appendChild(textOverlay);
+		
+		newDiv.appendChild(chartDiv);
+
+		mainContainer.appendChild(newDiv);		
+		container = newDiv;
+
+
+	
+	
+//	});
+//
+//const chartContainers = document.querySelectorAll('.chart-container');
+//chartContainers.forEach((container, index) => {
+const chart = new LightweightCharts.createChart(container, {
+        width: 400,
+        height: 300,
+        timeScale: {
+            timeVisible: true,
+            barSpacing: 25,
+            rightBarStaysOnWheel: true
+        },
+		
+		
+        layout: {
+            backgroundColor: 'white',
+            textColor: 'black',
+            lineColor: 'black',
+            crosshair: {
+                color: 'black'
+            },
+            paneBackgroundColor: 'white',
+            timeZone: 'Asia/Kolkata',
+			title: '${item.Symbol}', 
+        },
+    });
+
+ const candleSeries = chart.addSeries(LightweightCharts.CandlestickSeries,{scaleMargins: {
+        top: 0, // highest point of the series will be 70% away from the top
+        bottom: 0.2,
+    },
+	
+	
+
+	
+	});
+	
+	
+//  			  upColor: 'rgba(0, 255, 0, 0.7)',   // Up candle color with transparency
+//  downColor: 'rgba(255, 0, 0, 0.7)', // Down candle color with transparency
+//  borderUpColor: 'rgba(0, 255, 0, 0.7)',
+//  borderDownColor: 'rgba(255, 0, 0, 0.7)',
+//  wickUpColor: 'rgba(0, 255, 0, 0.7)',
+//  wickDownColor: 'rgba(255, 0, 0, 0.7)',
+	
+	
+	
+	  candleSeries.applyOptions({
+       borderDownColor: 'rgba(255, 0, 0, 0.5)',
+       borderUpColor: 'rgba(0, 255, 0, 0.5)',
+       downColor: 'rgba(255, 0, 0, 0.3)', // Down candle color with transparency
+       upColor: 'rgba(0, 255, 0, 0.3)',   // Up candle color with transparency
+      borderVisible: true,
+    });
+	
+ const volumeSeries = chart.addSeries(LightweightCharts.HistogramSeries, {
+    color: '#26a69a',
+    priceFormat: {
+        type: 'volume',
+    },
+    priceScaleId: '', // set as an overlay by setting a blank priceScaleId
+    // set the positioning of the volume series
+    scaleMargins: {
+        top: 0.8, // highest point of the series will be 70% away from the top
+        bottom: 0,
+    },
+});
+ volumeSeries.priceScale().applyOptions({
+    scaleMargins: {
+        top: 0.7, // highest point of the series will be 70% away from the top
+        bottom: 0,
+    },
+});
+
+
+charts.push({ chart, candleSeries, volumeSeries });
+
+//	const fetchData = () => {
+//	fetch('http://localhost:5001/api/data?symbol=ALOKINDS&exchange=NSE&interval=1m&ema_period=20&rsi_period=14')
+//	.then(response => response.json())
+//	.then(data => {
+//	const formattedData = data.map(point => ({
+//	time: point.time,
+//	value: point.value,
+//	}));
+//	lineSeries.setData(formattedData);
+//	})
+//	.catch(err => console.error('Error fetching data:', err));
+//	};
+//	    // Function to fetch data from Yahoo Finance
+    async function fetchData() {
+        //const symbol = 'NSE:NIFTY50'; // NIFTY 50 Index
+		//const url = `https://example.com/page?symbol=${symbols[index]}`;
+        const url = `http://localhost:5001/api/data?symbol=${symbol}&exchange=NSE&interval=1m&ema_period=20&rsi_period=14` ; //`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?range=1d&interval=1m`;
+//{"data":{"candlestick":{"close":15.76,"high":15.9,"low":15.72,"open":15.85,"time":1744688700,"volume":58060}
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+            //console.log(data);
+
+            const chartData = data;
+            const timeData = data;
+
+            return { timeData, chartData }
+
+
+        } catch (error) {
+            console.error("Error fetching data:", error);
+        }
+    }
+
+
+    // Initial data load and chart setup
+    async function init() {
+        const data = await fetchData();
+ 
+			                        // Update chart data
+                        candleSeries.setData( data.chartData.data.candlestick);
+                        
+                        // Calculate volume data with colors based on price direction
+                        const volumeData =  data.chartData.data.candlestick.map(candle => ({
+                            time: candle.time,
+                            value: candle.volume || 0,
+                            color: candle.close >= candle.open ? '#26a6ddaa' : '#ff5350'
+                        }));
+                        
+                        volumeSeries.setData(volumeData);
+						}
+      
+    init();
+
+	//setInterval(fetchData, 10000); // Fetch data every 10 sec
+	    // Simulate real-time updates (for demonstration purposes)
+    setInterval(async () => {
+        const data = await fetchData();
+        if (data  ) {
+            const latestData = data.chartData.data.candlestick[data.chartData.data.candlestick.length - 1];
+
+            const latestTime =data.chartData.data.candlestick[data.chartData.data.candlestick.length - 1] * 1000;
+
+            if (latestData) {
+                candleSeries.update({
+                    time: latestData.time,
+                    open: latestData.open,
+                    high: latestData.high,
+                    low : latestData.low,
+                    close: latestData.close,
+                });
+				
+		volumeSeries.update({
+                            time: latestData.time,
+                            value: latestData.volume || 0,
+                            color: latestData.close >= latestData.open ? '#26a6ddaa' : '#ff5350'
+                        });
+                        
+                       
+				
+            }
+			   
+        }
+    }, 10000);
+	
+});
+
+}
+
+
+
+</script>
+
+
+
+</body>
+</html>
